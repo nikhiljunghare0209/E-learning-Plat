@@ -1,0 +1,7 @@
+  # difference between package.json and package-lock.json
+  
+  1)package.json-package.jason madhe  project che version,name,scripts,dependencies,devDependencies asatat.
+  2)package-lock.json-java koni developer apala code 4-5 month ni github varun ghrun run karanyacha try karato tyaveles jar package madhe update ale tar tyachya pc
+    var to code run hot nahi                     
+
+
