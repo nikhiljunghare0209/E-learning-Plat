@@ -52,7 +52,7 @@ export const ProtectedRoute = ({children}) => {
 
     return children;
 }
-
+// this is used in App.jsx like below
 // ✅ Why you need AuthenticatedUser ?
 
 // AuthenticatedUser function code say's “If you are already logged in, you can’t see the login page — I’ll send you to the homepage instead.”
